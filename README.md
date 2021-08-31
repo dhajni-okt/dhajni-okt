@@ -1,2 +1,2 @@
-# dhajni-okt.github.io
-Oktatási anyagok
+# dhajni-okt
+Bolyai Oktatási anyagok
