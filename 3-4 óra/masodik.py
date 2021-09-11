@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+print("alma","körte","banán")
+print("alma2","körte2","banán2")
+print()
+print("alma3","körte3","banán3",end='')
+print("alma4","körte4","banán4")
+print()
+print("alma","körte","banán",sep="-")
+print("alma2","körte2","banán2")
+print()
+print("alma","körte","banán",sep="-",end="-")
+print("alma2","körte2","banán2",sep="-")
