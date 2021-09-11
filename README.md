@@ -1,2 +1,2 @@
 # dhajni-okt
-Bolyai Oktatási anyagok
+Órai feladatok, Tananyagok
